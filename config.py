@@ -1,15 +1,15 @@
 qiwi_number = "" # Номер киви без +
 qiwi_token = "" # Киви токен
 
-ADMIN_ID =   # Админ id получить у бота @getmyid_bot
-TOKEN = ""  # Токен бота
+ADMIN_ID = '1138201507'  # Админ id получить у бота @getmyid_bot
+TOKEN = "AAEw3kwM6n4Wktn3Ezqz5O8wnoeCfaIeBqs"  # Токен бота
 
-price = 10 # Цена ответов
+price = 100 # Цена ответов
 test_price = 1 # Цена для тестовой оплаты
 
 
-start_message = """ 
+start_message = "12"12" 
 Текст
 Сюда введите своё сообщение.
-""" # Сообщение, когда нажимаю /start
+"Ti"Hi" # Сообщение, когда нажимаю /start
 
